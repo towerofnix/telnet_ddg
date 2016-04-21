@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "jsdom": "^8.4.0",
     "request": "^2.72.0",
     "wordwrap": "^1.0.0"
   }
